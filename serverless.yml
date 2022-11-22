@@ -11,8 +11,6 @@
 #
 # Happy Coding!
 
-# Eric: video tutorial used: https://www.youtube.com/watch?v=BRRxQbSb9bo
-
 service: first-lambda
 
 frameworkVersion: '3'
